@@ -53,7 +53,15 @@ nav{
     font-weight: 900;
     font-size: 30px;
 }
-.nav:hover{
+.nav1:hover{
+    font-weight: 900;
+    text-decoration:rgb(68, 65, 65) underline;
+}
+.nav2:hover{
+    font-weight: 900;
+    text-decoration:rgb(68, 65, 65) underline;
+}
+.nav3:hover{
     font-weight: 900;
     text-decoration:rgb(68, 65, 65) underline;
 }
